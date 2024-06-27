@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-26T18:12:44 IST" name="Suite" finished-at="2024-06-26T18:12:45 IST" duration-ms="43">
+    <groups>
+    </groups>
+    <test started-at="2024-06-26T18:12:44 IST" name="Test" finished-at="2024-06-26T18:12:45 IST" duration-ms="43">
+      <class name="yuvaantestacademy.YuvaanSelenium.SeleniumTest">
+        <test-method signature="getData()[pri:0, instance:yuvaantestacademy.YuvaanSelenium.SeleniumTest@1ab3a8c8]" started-at="2024-06-26T18:12:45 IST" name="getData" finished-at="2024-06-26T18:12:45 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- yuvaantestacademy.YuvaanSelenium.SeleniumTest -->
+      <class name="yuvaantestacademy.YuvaanSelenium.PostmanTest">
+        <test-method signature="getPostman()[pri:0, instance:yuvaantestacademy.YuvaanSelenium.PostmanTest@795cd85e]" started-at="2024-06-26T18:12:45 IST" name="getPostman" finished-at="2024-06-26T18:12:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPostman -->
+      </class> <!-- yuvaantestacademy.YuvaanSelenium.PostmanTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
